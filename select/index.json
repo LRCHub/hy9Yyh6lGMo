@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "シャングリラ",
+  "base_artist": "chatmonchy",
+  "createdAt": "2025-12-03T13:25:35.494213Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シャングリラ",
+      "artist": "Chatmonchy",
+      "has_synced": true,
+      "path": "select/01_シャングリラ_Chatmonchy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "イケナイ?シャングリラ",
+      "artist": "鳴海ナクル(CV:阿澄佳奈)",
+      "has_synced": true,
+      "path": "select/02_イケナイ_シャングリラ_鳴海ナクル(CV_阿澄佳奈).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "イケナイ・シャングリラ",
+      "artist": "鳴海ナクル (阿澄佳奈)",
+      "has_synced": true,
+      "path": "select/03_イケナイ・シャングリラ_鳴海ナクル_(阿澄佳奈).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "シャングリラ",
+      "artist": "Acid Black Cherry",
+      "has_synced": true,
+      "path": "select/04_シャングリラ_Acid_Black_Cherry.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "シャングリラ",
+      "artist": "Acid Black Cherry",
+      "has_synced": true,
+      "path": "select/05_シャングリラ_Acid_Black_Cherry.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "シャングリラ",
+      "artist": "CHATMONCHY",
+      "has_synced": true,
+      "path": "select/06_シャングリラ_CHATMONCHY.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "シャングリラ(2015ver．)",
+      "artist": "今井麻美",
+      "has_synced": false,
+      "path": "select/07_シャングリラ(2015ver.)_今井麻美.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Awich - Frontiers (Prod. Chaki Zulu) / Shangri-La Frontier シャングリラ・フロンティア OP",
+      "artist": "Awich",
+      "has_synced": false,
+      "path": "select/08_Awich_-_Frontiers_(Prod._Chaki_Zulu)___Shangri-La_Frontier_シャングリラ・フロンティア_OP_Awich.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "イケナイ? シャングリラ",
+      "artist": "鳴海ナクル",
+      "has_synced": true,
+      "path": "select/09_イケナイ__シャングリラ_鳴海ナクル.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "シャングリラ",
+      "artist": "今井麻美",
+      "has_synced": false,
+      "path": "select/10_シャングリラ_今井麻美.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "シャングリラ (2015 Ver.)",
+      "artist": "今井麻美",
+      "has_synced": false,
+      "path": "select/11_シャングリラ_(2015_Ver.)_今井麻美.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "シャングリラ (Forever Edition)",
+      "artist": "chatmonchy",
+      "has_synced": true,
+      "path": "select/12_シャングリラ_(Forever_Edition)_chatmonchy.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "シャングリラ",
+      "artist": "Miyuki Nakajima",
+      "has_synced": false,
+      "path": "select/13_シャングリラ_Miyuki_Nakajima.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "シャングリラ",
+      "artist": "川嶋あい",
+      "has_synced": false,
+      "path": "select/14_シャングリラ_川嶋あい.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シャングリラ",
+      "artist": "チャットモンチー",
+      "has_synced": false,
+      "path": "select/pl_01_シャングリラ_チャットモンチー.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "シャングリラ",
+      "artist": "チャットモンチー",
+      "has_synced": false,
+      "path": "select/pl_02_シャングリラ_チャットモンチー.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "シャングリラ",
+      "artist": "チャットモンチー",
+      "has_synced": false,
+      "path": "select/pl_03_シャングリラ_チャットモンチー.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "シャングリラ",
+      "artist": "チャットモンチー",
+      "has_synced": false,
+      "path": "select/pl_04_シャングリラ_チャットモンチー.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "シャングリラ",
+      "artist": "チャットモンチー",
+      "has_synced": false,
+      "path": "select/pl_05_シャングリラ_チャットモンチー.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "シャングリラ",
+      "artist": "チャットモンチー",
+      "has_synced": false,
+      "path": "select/pl_06_シャングリラ_チャットモンチー.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "シャングリラ (MOONBUG Remix)",
+      "artist": "チャットモンチー",
+      "has_synced": false,
+      "path": "select/pl_07_シャングリラ_(MOONBUG_Remix)_チャットモンチー.txt"
+    }
+  ]
+}
